@@ -1,16 +1,18 @@
-## Hi there 👋
+### Salut, je suis Wail Himer ! 👋
 
-<!--
-**WailHimer/WailHimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **BUT Informatique**, je me spécialise dans la **Cybersécurité** et l'administration **Linux**. J'aime construire des outils utiles et sécurisés.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur : **[PassGen](https://github.com/WailHimer/PasswordGenerator)** (Générateur de mots de passe sécurisés).
+- 🌱 J'apprends activement : **Network Security, Bash Scripting, & Web Dev**.
+- 💼 Je recherche : Une **alternance** en Cyber ou Linux pour **Septembre 2026**.
+- 🛡️ Mes challenges : Retrouvez-moi sur **[TryHackMe](https://tryhackme.com/p/wailhimer28)**.
+
+---
+
+### 🛠️ Mes Outils
+`Linux` `Python` `Bash` `HTML/CSS/JS` `Git` `VS Code`
+
+---
+🌐 **[Voir mon Portfolio](https://wailhimer.github.io)**
